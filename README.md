@@ -75,7 +75,8 @@ Answer: Use a **box plot** for each module to show performance distributions wit
 
 ### **Question 2**
 
-![Uploading Screenshot 2024-12-08 at 10.20.50 PM.png…]()
+<img width="1470" alt="Screenshot 2024-12-08 at 10 20 50 PM" src="https://github.com/user-attachments/assets/aee41adc-12f5-48e9-b089-bacd24577c21">
+
 
 2(a) Given the following brief to design a system for a data collection and storage
 (preservation) task:
