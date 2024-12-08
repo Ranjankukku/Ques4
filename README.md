@@ -74,6 +74,9 @@ Answer: Use a **box plot** for each module to show performance distributions wit
 ---
 
 ### **Question 2**
+
+![Uploading Screenshot 2024-12-08 at 10.20.50 PM.png…]()
+
 2(a) Given the following brief to design a system for a data collection and storage
 (preservation) task:
 “Your client runs a chain of 10 gift shops across the UK and Ireland and
@@ -132,6 +135,7 @@ Answer: Social media interactions may include personal identifiers like username
 
 ---
 ### **Question 3**
+<img width="1470" alt="Screenshot 2024-12-08 at 10 19 32 PM" src="https://github.com/user-attachments/assets/2ca8f18e-d1a8-4ce6-8049-b32af7b2aa7a">
 
 #### **(a) Identify four (4) different possible errors or artefacts in the dataset linked above, giving the column name and cell reference if appropriate.**
 
